@@ -1,5 +1,9 @@
 <template>
-  $END$
+  <div class="v-cart">
+
+    <h2>Это в-кард</h2>
+
+  </div>
 </template>
 
 <script>
@@ -8,6 +12,6 @@
   }
 </script>
 
-<style scoped>
+<style lang="scss">
 
 </style>
