@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>Hi Vue</h1>
+    <h1>Это главный vue-app, заголовок h1</h1>
     <v-main-wrapper/>
 
   </div>
