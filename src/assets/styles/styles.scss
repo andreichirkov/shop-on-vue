@@ -1,1 +1,9 @@
 @import "variables.scss";
+
+.btn {
+  padding: $padding $padding*2;
+  background: cornflowerblue;
+  color: #ffffff;
+  border: none;
+  border-radius: $radius;
+}
